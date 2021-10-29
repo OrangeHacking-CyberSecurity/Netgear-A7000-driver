@@ -30,7 +30,8 @@ https://github-repository-files.githubusercontent.com/101095696/5862527?X-Amz-Al
 
 ```shell
 sudo patch -p1 < 0001-Allow-inject-management-and-control-frames.txt
-```
+然后输入：yes
+``` 
 
 ## 编辑部分
 
